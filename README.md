@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Son
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning computer vision
+- 👀 I’m interested in Artificial Intelligence and Computer Vision
+- 🌱 I’m currently learning Computer Vision
 - 📫 Reach me at  tranthanhsonwork1999@gmail.com
 
 <!---
